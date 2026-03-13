@@ -1,7 +1,7 @@
 function home() {
   return (
     <div>
-      <h1>teste</h1>
+      <h1>te amo nega😘 </h1>
     </div>
   )
 }
