@@ -3,7 +3,6 @@ function home() {
     <div>
       <h1>te amo nega😘 </h1>
     </div>
-  )
+  );
 }
-
-export default home 
+export default home;
